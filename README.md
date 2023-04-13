@@ -9,10 +9,10 @@
     <p>I'am Xedric llonel M. Laranja🤗</p>
     <p>This school year 2022-2023 I'am a third year student in College of Computer Studies (CCS)</p>
     <p>I'am studying in Central Philippines University (CPU)</p>
-    <p>-I can cook any food</p>
-    <p>-I can make program using Java, HTML and other programming languages</p>
-    <p>-I can be a good friend of yours</p>
-    <p>-I can watch movies all day</p>
-    <p>-I can stay at my room 24Hrs without going out</p>
+    <p>-I can cook any food🙃🙃</p>
+    <p>-I can love, give advice, wait and be loyal at the same time😆😆</p>
+    <p>-I can be a good friend of yours😉😉</p>
+    <p>-I can watch movies all day😎😎</p>
+    <p>-I can stay at my room 24Hrs without going out🥱🥱</p>
   </body>
 </html>
